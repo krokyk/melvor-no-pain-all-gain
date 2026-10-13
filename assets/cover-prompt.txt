@@ -1,0 +1,21 @@
+Use case: precise typography-only image edit.
+Edit the supplied original cover for Kroky's No Pain, All Gain.
+Keep the complete illustration, navy background, thin gold frame, inset curved corners, horizontal gold rules and diamonds exactly as supplied.
+Replace/refine ONLY the title in the upper third.
+The title must be exactly two centered lines:
+Kroky's
+No Pain, All Gain
+Preserve the original warm cream-gold bold serif lettering, modest bevel, shading and dark shadow.
+Correct the title spacing: the descending tail of the y in Kroky's must have a clear band of navy background below it before the next line starts.
+The word All must contain TWO normal, full-height lowercase l ascenders, matching the font.
+Both l letters must be clearly readable as l, never i; no dots, truncation, shortening, clipping, or merged strokes.
+Do not shorten or distort the y descender to solve the collision.
+Instead, slightly reduce the first-line font size by about 15–20% and place it slightly higher, keeping it horizontally centered.
+On the 1672 by 941 canvas, aim for the first line's complete visible glyphs, including the y descender, within approximately y=45–180, and the second line within approximately y=215–295.
+Leave at least 25 pixels of clean navy between the bottommost first-line glyph and the tallest second-line glyph.
+Keep the second line together on one line, with balanced letter spacing and comfortable frame margins.
+Keep the full title clear of the illustration; the upper sun ray must not touch any letter.
+Preserve the approved large matte geometric blue Agility figure, rear-left three-quarter jump direction, all three cyan motion trails, wooden hurdle with red-and-cream crossbar and grey brackets, storm cloud, sun, pale clouds, gold reversal arrows and sparkles.
+No repositioning, rescaling or restyling of the illustration.
+No new text, objects, logos or watermarks.
+Retain the exact 1672 by 941 landscape dimensions and fully opaque navy background.

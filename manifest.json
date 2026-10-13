@@ -1,0 +1,5 @@
+{
+  "namespace": "KrokyNoPainAllGain",
+  "setup": "setup.mjs",
+  "icon": "assets/icon.png"
+}

@@ -1,0 +1,8 @@
+Use case: stylized-concept
+Asset type: square transparent inventory/mod icon for the Melvor Idle mod Kroky's No Pain, All Gain.
+Primary request: an agility hurdle with golden reversal arrows and a dark cloud turning into sunlight, communicating that training penalties become benefits.
+Subject: a compact wooden agility hurdle is the main recognizable silhouette; a bold golden curved reversal arrow sweeps upward around it. Above the hurdle, one small charcoal storm cloud transitions into a warm golden sun and a bright silver cloud edge. Keep these elements integrated into a single simple game icon, not a diagram or collage.
+Style: Melvor Idle-like friendly medieval fantasy item art, clean flat shaded cartoon illustration with crisp dark outlines, restrained highlights, simple geometric forms and readable silhouettes. Polished but uncomplicated. No photorealism, no 3D rendering, no pixel art.
+Composition: centered square icon, large subject, generous clear margin, readable at 64 pixels, no surrounding frame or scene.
+Background: genuinely transparent alpha; no colored square, no checkerboard texture, no ground shadow outside the object.
+Constraints: no lettering, no words, no numbers, no symbols that resemble text, no watermark.

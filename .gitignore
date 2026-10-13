@@ -1,0 +1,7 @@
+*.zip
+assets/cover-*.png
+assets/cover-*-prompt.txt
+assets/icon-*.png
+assets/icon-*-prompt.txt
+!assets/icon-edit-prompt.txt
+!assets/icon-cleanup-prompt.txt
