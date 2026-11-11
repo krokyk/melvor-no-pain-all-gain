@@ -18,7 +18,7 @@ Build costs, unlock requirements, action rewards, combat effect applicators, and
 There are no settings, dependencies on other mods, or custom save data.
 Disable the mod and reload to restore the native Agility modifiers.
 
-Import **no-pain-all-gain-1.0.0.zip** into Melvor's Creator Toolkit to test it, or install it through mod.io.
+Import **krokys-no-pain-all-gain-1.0.0.zip** into Melvor's Creator Toolkit to test it, or install it through mod.io.
 The archive contains `manifest.json`, `setup.mjs`, and `assets/icon.png`.
 
 Run the checks with `node --test`.

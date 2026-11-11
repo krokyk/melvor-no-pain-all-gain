@@ -28,7 +28,7 @@ No configuration or other mods required.
 
 ## Upload
 
-Upload **no-pain-all-gain-1.0.0.zip** with `manifest.json` and `setup.mjs` at the root and `assets/icon.png` inside `assets`.
+Upload **krokys-no-pain-all-gain-1.0.0.zip** with `manifest.json` and `setup.mjs` at the root and `assets/icon.png` inside `assets`.
 The square mod icon is `assets/icon.png`.
 The mod.io listing cover is `assets/cover.png`.
 No mod dependency is required.
