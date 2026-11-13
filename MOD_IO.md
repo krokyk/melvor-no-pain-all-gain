@@ -17,6 +17,14 @@ Supports normal and Abyssal Agility.
 All expansions are optional.
 No configuration or other mods required.
 
+### See my other mods:
+
+- [Kroky's Bardic Troupe](https://mod.io/g/melvoridle/m/krokys-bardic-troupe)
+- [Kroky's Workforce](https://mod.io/g/melvoridle/m/krokys-workforce)
+- [Kroky's Armed to the Seeds](https://mod.io/g/melvoridle/m/krokys-armed-to-the-seeds)
+- [Kroky's Better UI](https://mod.io/g/melvoridle/m/krokys-better-ui)
+- [Kroky's Mapmaking](https://mod.io/g/melvoridle/m/krokys-mapmaking)
+
 ## Version
 
 1.0.0
